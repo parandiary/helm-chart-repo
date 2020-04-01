@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-01T18:56:10.594400088+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 124e041d94e899fcf309bf9792570ec1caeb58ef1a6e4c523977097fde3579d6
+    name: demo
+    urls:
+    - https://parandiary.github.io/helm-chart-repo/stable/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-01T18:56:10.593585338+09:00"
